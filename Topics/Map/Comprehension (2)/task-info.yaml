@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: createMap
+  - text: mapOf
+  - text: emptyMap
+  - text: pairOf
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12663#comment
+status: Solved
+record: -1
+custom_name: Comprehension
+local_check: false

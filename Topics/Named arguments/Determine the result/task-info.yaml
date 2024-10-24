@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 12
+  - text: 14
+  - text: 13
+  - text: 15
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7859#comment
+status: Solved
+record: -1
+local_check: false

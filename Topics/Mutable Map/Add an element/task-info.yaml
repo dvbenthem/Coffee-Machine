@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "plus(key, value)"
+  - text: "insert(key, value)"
+  - text: "put(key, value)"
+  - text: add(Pair)
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15878#comment
+status: Solved
+record: -1
+local_check: false

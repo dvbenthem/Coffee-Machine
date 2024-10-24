@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Kotlin)/task/build/
+/Coffee Machine (Kotlin)/task/out/
+/Coffee Machine (Kotlin)/task/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Enum/Theory/out/
+/Topics/Enum/Theory/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/Mutable Map/Help the robot/out/
+/Topics/Mutable Map/Help the robot/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: class
+  - text: entity
+  - text: interface
+  - text: new
+  - text: object
+  - text: struct
+  - text: type
+  - text: typedef
+  - text: val
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6201#comment
+status: Solved
+record: -1
+local_check: false

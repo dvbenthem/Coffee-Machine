@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Area printer" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Create a Book object and return its description" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on val objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on var objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/True statements" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Calculate volume" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Print Username" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Summation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Danger level" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Rainbow colors" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/entries property" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Circular shift" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/For loops task" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Individual taxes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/List indexes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Print all elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Example of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Password decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/What are the advantages of decomposing" />
+            <option value="$PROJECT_DIR$/Topics/Map/Application" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension (1)" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension (2)" />
+            <option value="$PROJECT_DIR$/Topics/Map/FizzBuzz" />
+            <option value="$PROJECT_DIR$/Topics/Map/Is there a key" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map with buildMap" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Facts about member functions" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Keyword to declare a member function" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Member functions' return type" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/About Mutable Map" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Add an element" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Correct initialization" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Help the robot" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Remove an element" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Removing" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/The output of two maps" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Wish list" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Car price" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Find the correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/City population" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Facts about setters" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
