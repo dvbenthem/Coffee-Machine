@@ -72,7 +72,7 @@ fun userInput() {
     "1" to "espresso",
     "2" to "latte",
     "3" to "cappuccino",
-    "back" to "to main menu"
+    "back" to "to main menu:"
     )
     
     when (machineOptions) {
