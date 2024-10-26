@@ -67,10 +67,22 @@ fun checkIfCanMakeCoffeeType(){
 fun userInput() {
     println("Write action (buy, fill, take, remaining, exit): ")
     val machineOptions = readln().lowercase()
-
+ 
+    val coffeeList: MutableMap<String, String> = mutableMapOf(
+    "1" to "espresso",
+    "2" to "latte",
+    "3" to "cappuccino",
+    "back" to "to main menu"
+    )
+    
     when (machineOptions) {
             "buy" -> {
-                println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:")
+                // println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:")
+                print("What do you want to buy? ")
+                for ((key, value) in coffeeList) {
+                    print("$key - $value, ")
+                }
+                
                 val typeOfCoffee = readln()
                 if (typeOfCoffee == "back") {
                     userInput()
